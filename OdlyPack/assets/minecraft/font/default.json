@@ -5,21 +5,35 @@
       "file": "minecraft:font/youtube.png",
       "ascent": 8,
       "height": 10,
-      "chars": ["\uE001"]
+      "chars": ["\ue001"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/tiktok.png",
       "ascent": 8,
       "height": 10,
-      "chars": ["\uE002"]
+      "chars": ["\ue002"]
     },
     {
       "type": "bitmap",
       "file": "minecraft:font/instagram.png",
       "ascent": 8,
       "height": 10,
-      "chars": ["\uE003"]
+      "chars": ["\ue003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/owner.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\ue004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/dev.png",
+      "ascent": 8,
+      "height": 10,
+      "chars": ["\ue005"]
     }
   ]
 }
